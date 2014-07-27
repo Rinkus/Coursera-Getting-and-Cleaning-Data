@@ -3,23 +3,23 @@ CodeBook Coursera Getting and Cleaning Data Project
 
 # Variables
 
-*subjectid:
+##subjectid:
 
 identifies the subject that participate in this observation. Total 30 subjects were observed to obtain the data
 
 
-*activitydescription:
+##activitydescription:
 
 describe the activity that the subject did to collect the data. consist six different type of activities:
-     ** walking
-     ** walkingupstairs
-     ** walkingdownstairs
-     ** sitting
-     ** laying
-     ** standing
+     * walking
+     * walkingupstairs
+     * walkingdownstairs
+     * sitting
+     * laying
+     * standing
 
 
-*Variables parameter(79 columns)
+##Variables parameter(79 columns)
 
 This variable parameter calculate the mean value of the parameter describe in the column names. There are 79 columns that include in variable parameters written in this format: `t|Body|Acc|mean|X`
 * `t/f`: time/frequency domain signals
