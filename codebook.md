@@ -11,12 +11,12 @@ identifies the subject that participate in this observation. Total 30 subjects w
 ##activitydescription:
 
 describe the activity that the subject did to collect the data. consist six different type of activities:
-     * walking
-     * walkingupstairs
-     * walkingdownstairs
-     * sitting
-     * laying
-     * standing
+* walking
+* walkingupstairs
+* walkingdownstairs
+* sitting
+* laying
+* standing
 
 
 ##Variables parameter(79 columns)
